@@ -1,0 +1,10 @@
+samuel/tutorials/annotations/MinNumber.class
+samuel/tutorials/config/GameConfig.class
+samuel/tutorials/NumberGenerator.class
+samuel/tutorials/MessageGenerator.class
+samuel/tutorials/Game.class
+samuel/tutorials/annotations/GuessCount.class
+samuel/tutorials/NumberGeneratorImpl.class
+samuel/tutorials/MessageGeneratorImpl.class
+samuel/tutorials/annotations/MaxNumber.class
+samuel/tutorials/GameImpl.class

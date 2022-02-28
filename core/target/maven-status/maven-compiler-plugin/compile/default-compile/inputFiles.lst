@@ -1,0 +1,10 @@
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/Game.java
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/GameImpl.java
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/NumberGeneratorImpl.java
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/annotations/MaxNumber.java
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/NumberGenerator.java
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/annotations/MinNumber.java
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/MessageGenerator.java
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/annotations/GuessCount.java
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/config/GameConfig.java
+/Users/samuellamina/IdeaProjects/guess-the-number-game/core/src/main/java/samuel/tutorials/MessageGeneratorImpl.java
