@@ -1,0 +1,6 @@
+<thlogic>
+    <attr sel="#footerId"
+          th:fragment="footerFragment" />
+<!--    <attr ser="#created-by"-->
+<!--          th:text="|#{game.createdBy} Lamina Samuel Olawale"/>-->
+</thlogic>

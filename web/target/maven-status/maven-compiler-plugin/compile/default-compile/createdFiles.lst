@@ -1,3 +1,9 @@
+samuel/tutorials/util/GameMappings.class
 samuel/tutorials/config/WebConfig.class
 samuel/tutorials/util/ViewNames.class
+samuel/tutorials/util/thymeleaf/DecoupledLogicSetup.class
+samuel/tutorials/util/AttributeNames.class
+samuel/tutorials/controller/GameController.class
 samuel/tutorials/WebMain.class
+samuel/tutorials/service/GameService.class
+samuel/tutorials/service/GameServiceImpl.class
